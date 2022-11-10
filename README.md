@@ -1,5 +1,5 @@
 This is a Tesla Clone website created using React. </br>
-<a href="https://teslaclone-6c807.web.app/"><style color:"yellow">Live Demo </style></a>
+<a href="https://teslaclone-6c807.web.app/">Live Demo </a>
 
 
 
