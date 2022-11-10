@@ -1,4 +1,4 @@
-This is a Tesla Clone website created using React. </br>
+This is a Tesla clone website created using React. </br>
 <a href="https://teslaclone-6c807.web.app/">Live Demo </a>
 
 
